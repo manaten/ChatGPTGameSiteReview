@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+  ],
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
